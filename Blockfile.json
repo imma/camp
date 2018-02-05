@@ -1,6 +1,7 @@
 {
   "require": [
     "block",
+    "cache",
     "pkgsrc",
     "homebrew"
   ],
