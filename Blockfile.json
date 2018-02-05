@@ -2,8 +2,7 @@
   "require": [
     "block",
     "cache",
-    "pkgsrc",
-    "homebrew"
+    "pkg"
   ],
   "versions": {}
 }
