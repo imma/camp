@@ -1,4 +1,8 @@
 {
-  "require": [],
+  "require": [
+    "block",
+    "pkgsrc",
+    "homebrew"
+  ],
   "versions": {}
 }
